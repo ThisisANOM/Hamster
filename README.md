@@ -3,6 +3,8 @@
 * auto get rewards
 * login to another player account
 
+
+## Auto get reward script usage
 ### Step 1
 ```
 pip install -r requirements.txt

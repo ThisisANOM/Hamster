@@ -19,3 +19,5 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Tutorial how login to another player account
+https://t.me/MemoryOfNaengi/634

